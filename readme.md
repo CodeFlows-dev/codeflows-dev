@@ -45,4 +45,12 @@ Use:
 - `npm run test:unit` - to run the unit tests with [Vitest](https://vitest.dev/)
 - `npm run lint` - to lint with [ESLint](https://eslint.org/)
 
+### Publishing to GitHub Pages
+
+Use:
+
+1. `npm run build`
+2. `npm run deploy:gh`
+3. `git push`
+
 <br/>
