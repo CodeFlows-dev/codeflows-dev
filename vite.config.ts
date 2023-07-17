@@ -7,7 +7,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   build: {
     rollupOptions: {
-      external: ['/logo.png']
+      external: ['logo.png']
     }
   },
   plugins: [vue()],
