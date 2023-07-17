@@ -84,12 +84,12 @@
       <!-- Feature section -->
       <div class="mx-auto mt-10 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl lg:text-center">
-          <!-- <h2 class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2> -->
-          <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">CodeFlows</p>
+          <h2 class="mt-20"></h2>
+          <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-3xl">CodeFlows</p>
           <p class="mt-6 text-lg leading-8 text-gray-600">
-            This is the space where our creativity, vision, and passion are thriving.<br />
-            We are a team of enthusiastic and fully engaged people, covering all stages of
-            delivering sucessful digital solutions using model technologies.
+            This is the space where our creativity, vision, and passion are thriving.<br />We are a
+            team of enthusiastic and fully engaged people, covering all stages of delivering
+            sucessful digital solutions using model technologies.
           </p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
@@ -129,7 +129,7 @@
           </a>
         </div>
         <p class="mt-8 text-sm leading-5 text-gray-700 md:order-1 md:mt-0">
-          &copy; 2023 CodeFLows. All rights reserved.
+          &copy; 2023 CodeFlows. All rights reserved.
         </p>
       </div>
     </div>
