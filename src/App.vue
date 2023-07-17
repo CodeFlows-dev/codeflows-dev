@@ -6,7 +6,7 @@
         <div class="flex lg:flex-1">
           <a href="#" class="-m-1.5 p-1.5">
             <span class="sr-only">CodeFlows</span>
-            <img class="h-10 w-auto" src="logo.png" alt="" />
+            <img class="h-10 w-auto" src="/logo.png" alt="" />
           </a>
         </div>
         <div class="flex lg:hidden">
@@ -44,7 +44,7 @@
           <div class="flex items-center justify-between">
             <a href="#" class="-m-1.5 p-1.5">
               <span class="sr-only">CodeFlows</span>
-              <img class="h-10 w-auto" src="logo.png" alt="" />
+              <img class="h-10 w-auto" src="/logo.png" alt="" />
             </a>
             <button
               type="button"
